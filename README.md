@@ -116,7 +116,9 @@ Practical ML workflow covering data preprocessing, feature engineering, model tr
 </a>
 
 </p>
-
+<a href="www.linkedin.com/in/suranga-madushan-kulathunga-6b04182b4">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 ---
 
 <p align="center">
