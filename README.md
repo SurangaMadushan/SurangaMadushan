@@ -1,4 +1,4 @@
-# Hi 👋, I'm Suranga Madushan
+<p align="center"># Hi 👋, I'm Suranga Madushan</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=760&lines=Electronics+%26+Computer+Science+Undergraduate;AI+%7C+Machine+Learning+%7C+Deep+Learning;Embedded+Systems+%7C+Electronics;NLP+%7C+Computer+Vision+%7C+LLMs;Building+Practical+Engineering+Solutions" alt="Typing SVG" />
