@@ -127,3 +127,6 @@ Practical ML workflow covering data preprocessing, feature engineering, model tr
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SurangaMadushan/SurangaMadushan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
