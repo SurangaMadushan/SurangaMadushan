@@ -106,9 +106,6 @@ Practical ML workflow covering data preprocessing, feature engineering, model tr
   <img src="https://streak-stats.demolab.com?user=SurangaMadushan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurangaMadushan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
@@ -126,17 +123,4 @@ Practical ML workflow covering data preprocessing, feature engineering, model tr
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SurangaMadushan/SurangaMadushan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SurangaMadushan/SurangaMadushan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SurangaMadushan/SurangaMadushan/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/SurangaMadushan/SurangaMadushan/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
