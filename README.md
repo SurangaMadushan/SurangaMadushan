@@ -1,101 +1,129 @@
 # Hi 👋, I'm Suranga Madushan
 
-### 🎓 BSc (Hons) Electronics & Computer Science Undergraduate
-### 🤖 AI/ML | Embedded Systems | Electronics | Renewable Energy
-
-I'm an Electronics & Computer Science undergraduate at the University of Kelaniya, interested in Artificial Intelligence, Machine Learning, Embedded Systems, Electronics, and Renewable Energy.
-
-I enjoy building practical projects that combine software, hardware, and intelligent systems.
-
----
-
-## 🚀 About Me
-
-- 🎓 BSc (Hons) Electronics & Computer Science undergraduate at University of Kelaniya
-- 🤖 Currently focused on AI/ML and intelligent systems
-- 🔬 Interested in Deep Learning, NLP, Computer Vision, LLMs, RAG and AI Agents
-- 🔌 Interested in Embedded Systems, Microcontrollers and Electronics
-- ☀️ Interested in Solar & Renewable Energy
-- 💻 Enjoy building practical software and engineering projects
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,java,js,git,github,vscode,linux" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=760&lines=Electronics+%26+Computer+Science+Undergraduate;AI+%7C+Machine+Learning+%7C+Deep+Learning;Embedded+Systems+%7C+Electronics;NLP+%7C+Computer+Vision+%7C+LLMs;Building+Practical+Engineering+Solutions" alt="Typing SVG" />
 </p>
 
-### Embedded & Electronics
+<p align="center">
+  <img src="https://github.com/SurangaMadushan.png" width="160" height="160" alt="Suranga Madushan" />
+</p>
 
-Arduino · ESP32 · Microcontrollers · Sensors · Circuit Design · DSP · Measurement & Instrumentation · Control Systems
-
-### AI / ML
-
-PyTorch · Scikit-learn · OpenCV · NLP · Computer Vision · LLMs · RAG · AI Agents
-
-### Development
-
-FastAPI · Streamlit · Git · GitHub · VS Code
+<p align="center">
+  <a href="https://github.com/SurangaMadushan">
+    <img src="https://img.shields.io/github/followers/SurangaMadushan?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/SurangaMadushan?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-informational?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 👨‍💻 About Me
+
+I'm a BSc (Hons) Electronics & Computer Science undergraduate at the University of Kelaniya, exploring the intersection of software, intelligent systems, electronics, and embedded engineering.
+
+My current interests include AI/ML, Deep Learning, NLP, Computer Vision, LLM applications, RAG systems, AI Agents, Embedded Systems, and Renewable Energy.
+
+- 🎓 Electronics & Computer Science undergraduate
+- 🤖 Focused on AI/ML and intelligent systems
+- 🔬 Interested in NLP, Computer Vision, LLMs, RAG and AI Agents
+- 🔌 Interested in Arduino, ESP32 and microcontroller-based systems
+- ☀️ Interested in Solar & Renewable Energy
+- 💻 Building practical software and engineering projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+`Python` · `PyTorch` · `Scikit-learn` · `OpenCV` · `NLP` · `Computer Vision` · `LLMs` · `RAG` · `AI Agents`
+
+### ⚙️ Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,git,github,vscode,linux" />
+</p>
+
+`C/C++` · `Java` · `JavaScript` · `FastAPI` · `Streamlit` · `Git` · `GitHub` · `VS Code`
+
+### 🔌 Embedded & Electronics
+
+`Arduino` · `ESP32` · `Microcontrollers` · `Sensors` · `Circuit Design` · `DSP` · `Measurement & Instrumentation` · `Control Systems`
+
+---
+
+## 🚀 Featured Project
+
+### 🧠 LankaSense AI
+
+AI-focused project exploring intelligent applications for Sri Lankan language and content use cases.
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/SurangaMadushan/lankasense-ai)
+
+---
+
+## 🧪 Selected Projects
+
+> Add your other public repositories here as they become available on this GitHub account.
 
 ### 🧠 Pali → Sinhala Neural Machine Translation
 
-GRU-based Seq2Seq neural machine translation system for translating Pali text into Sinhala using PyTorch, with attention-based decoding and NLP preprocessing.
+GRU-based Seq2Seq neural machine translation research project for Pali-to-Sinhala translation using PyTorch and attention-based decoding.
 
 ### 🪖 Helmet Detection AI System
 
-YOLO-based real-time helmet detection system using computer vision, OpenCV video processing, and safety violation detection.
-
-### 📊 Machine Learning Prediction Projects
-
-Practical machine learning projects covering data preprocessing, feature engineering, classification, evaluation, and model development.
+YOLO-based real-time helmet detection and computer-vision safety monitoring project.
 
 ### 🧠 Sinhala RAG Assistant
 
-Exploring retrieval-augmented generation using embeddings, vector databases, LLMs, and conversational AI.
+Retrieval-Augmented Generation project exploring embeddings, vector databases, LLMs and conversational question answering.
+
+### 📊 Machine Learning Prediction
+
+Practical ML workflow covering data preprocessing, feature engineering, model training and evaluation.
 
 ---
 
 ## 📚 Currently Learning
 
-- Deep Learning
-- Natural Language Processing
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Computer Vision
-- PyTorch
+`Deep Learning` · `Natural Language Processing` · `Large Language Models` · `RAG` · `AI Agents` · `Computer Vision` · `PyTorch` · `FastAPI`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurangaMadushan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SurangaMadushan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SurangaMadushan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SurangaMadushan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurangaMadushan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
+
 <a href="https://github.com/SurangaMadushan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
