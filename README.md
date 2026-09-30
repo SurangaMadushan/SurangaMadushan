@@ -98,9 +98,7 @@ Practical ML workflow covering data preprocessing, feature engineering, model tr
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurangaMadushan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SurangaMadushan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
